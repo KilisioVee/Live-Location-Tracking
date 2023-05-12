@@ -13,7 +13,7 @@ class OrderTrackingPageState extends State<OrderTrackingPage> {
   static const LatLng sourceLocation = LatLng(-1.258174, 36.818733);
   static const LatLng destination = LatLng(-1.25887,36.80528);
   List<LatLng> polylineCoordinates = [];
-  String google_api_key='AIzaSyAPaQMSMVDORbXEazd17xmJ05ND98hB96k';
+  String google_api_key='YOUR_API_KEY HERE';
   LocationData? currentLocation;
   BitmapDescriptor sourceIcon = BitmapDescriptor.defaultMarker;
   BitmapDescriptor destinationIcon = BitmapDescriptor.defaultMarker;
