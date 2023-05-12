@@ -1,6 +1,7 @@
 # livelocationtrackingapp
 
 Flutter App for tracking live location from source to destination
+Enable Directions Api and Google Maps SDK for Android in your Google cloud console.
 
 ## Getting Started
 
